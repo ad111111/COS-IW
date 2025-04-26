@@ -1,0 +1,402 @@
+99%
+Flow 1 RTT: 482.34 ms
+Flow 2 RTT: 485.91 ms
+
+98%
+Flow 1 RTT: 454.56 ms
+Flow 2 RTT: 457.17 ms
+
+97%
+Flow 1 RTT: 495.64 ms
+Flow 2 RTT: 489.65 ms
+
+96%
+Flow 1 RTT: 454.74 ms
+Flow 2 RTT: 485.82 ms
+
+95%
+Flow 1 RTT: 407.48 ms
+Flow 2 RTT: 397.89 ms
+
+94%
+Flow 1 RTT: 425.10 ms
+Flow 2 RTT: 416.13 ms
+
+93%
+Flow 1 RTT: 431.78 ms
+Flow 2 RTT: 429.32 ms
+
+92%
+Flow 1 RTT: 428.76 ms
+Flow 2 RTT: 431.02 ms
+
+91%
+Flow 1 RTT: 417.40 ms
+Flow 2 RTT: 418.32 ms
+
+90%
+Flow 1 RTT: 411.09 ms
+Flow 2 RTT: 406.83 ms
+
+89%
+Flow 1 Goodput: 12.46 Mbps
+Flow 1 RTT: 409.28 ms
+
+Flow 2 Goodput: 12.45 Mbps
+Flow 2 RTT: 414.31 ms
+
+88%
+Flow 1 RTT: 410.03 ms
+Flow 2 RTT: 398.04 ms
+
+87%
+Flow 1 RTT: 398.63 ms
+Flow 2 RTT: 396.35 ms
+
+86%
+Flow 1 RTT: 408.33 ms
+Flow 2 RTT: 406.67 ms
+
+85%
+Flow 1 RTT: 384.28 ms
+Flow 2 RTT: 386.62 ms
+
+84%
+Flow 1 RTT: 393.55 ms
+Flow 2 RTT: 395.10 ms
+
+83%
+Flow 1 RTT: 415.04 ms
+Flow 2 RTT: 406.32 ms
+
+82%
+Flow 1 RTT: 380.64 ms
+Flow 2 RTT: 380.34 ms
+
+81%
+Flow 1 RTT: 390.61 ms
+Flow 2 RTT: 389.62 ms
+
+80%
+Flow 1 RTT: 374.54 ms
+Flow 2 RTT: 374.60 ms
+
+79%
+Flow 1 RTT: 358.89 ms
+Flow 2 RTT: 361.07 ms
+
+78%
+Flow 1 RTT: 390.61 ms
+Flow 2 RTT: 389.62 ms
+
+77%
+Flow 1 RTT: 369.53 ms
+Flow 2 RTT: 369.84 ms
+
+76%
+Flow 1 RTT: 378.51 ms
+Flow 2 RTT: 376.22 ms
+
+75%
+Flow 1 RTT: 363.50 ms
+Flow 2 RTT: 362.99 ms
+
+74%
+Flow 1 RTT: 379.69 ms
+Flow 2 RTT: 379.01 ms
+
+73%
+Flow 1 RTT: 383.97 ms
+Flow 2 RTT: 376.29 ms
+
+72%
+Flow 1 RTT: 376.21 ms
+Flow 2 RTT: 379.01 ms
+
+71%
+Flow 1 RTT: 367.60 ms
+Flow 2 RTT: 369.11 ms
+
+70%
+Flow 1 RTT: 367.41 ms
+Flow 2 RTT: 371.56 ms
+
+69%
+Flow 1 RTT: 368.91 ms
+Flow 2 RTT: 369.81 ms
+
+68%
+Flow 1 RTT: 367.38 ms
+Flow 2 RTT: 368.48 ms
+
+67%
+Flow 1 RTT: 352.77 ms
+Flow 2 RTT: 353.59 ms
+
+66%
+Flow 1 RTT: 365.24 ms
+Flow 2 RTT: 364.03 ms
+
+65%
+Flow 1 RTT: 360.94 ms
+Flow 2 RTT: 367.95 ms
+
+64%
+Flow 1 RTT: 367.83 ms
+Flow 2 RTT: 367.98 ms
+
+63%
+Flow 1 RTT: 366.11 ms
+Flow 2 RTT: 368.03 ms
+
+62%
+Flow 1 RTT: 376.70 ms
+Flow 2 RTT: 356.49 ms
+
+61%
+Flow 1 RTT: 369.18 ms
+Flow 2 RTT: 370.78 ms
+
+60%
+Flow 1 RTT: 368.24 ms
+Flow 2 RTT: 368.84 ms
+
+59%
+Flow 1 RTT: 338.48 ms
+Flow 2 RTT: 347.32 ms
+
+58%
+Flow 1 RTT: 358.63 ms
+Flow 2 RTT: 358.73 ms
+
+57%
+Flow 1 RTT: 377.35 ms
+Flow 2 RTT: 359.57 ms
+
+56%
+Flow 1 RTT: 356.92 ms
+Flow 2 RTT: 357.69 ms
+
+55%
+Flow 1 RTT: 352.66 ms
+Flow 2 RTT: 353.24 ms
+
+54%
+Flow 1 RTT: 337.72 ms
+Flow 2 RTT: 337.63 ms
+
+53%
+Flow 1 RTT: 331.13 ms
+Flow 2 RTT: 331.48 ms
+
+52%
+Flow 1 RTT: 336.16 ms
+Flow 2 RTT: 336.02 ms
+
+51%
+Flow 1 RTT: 333.59 ms
+Flow 2 RTT: 334.57 ms
+
+50%
+Flow 1 RTT: 323.87 ms
+Flow 2 RTT: 325.29 ms
+
+49%
+Flow 1 RTT: 322.69 ms
+Flow 2 RTT: 324.87 ms
+
+48%
+Flow 1 RTT: 325.61 ms
+Flow 2 RTT: 324.91 ms
+
+47%
+Flow 1 RTT: 320.71 ms
+Flow 2 RTT: 318.82 ms
+
+46%
+Flow 1 RTT: 320.66 ms
+Flow 2 RTT: 321.36 ms
+
+45%
+Flow 1 RTT: 320.29 ms
+Flow 2 RTT: 320.05 ms
+
+44%
+Flow 1 RTT: 313.63 ms
+Flow 2 RTT: 314.39 ms
+
+43%
+Flow 1 RTT: 311.82 ms
+Flow 2 RTT: 312.74 ms
+
+42%
+Flow 1 RTT: 314.00 ms
+Flow 2 RTT: 314.47 ms
+
+41%
+Flow 1 RTT: 314.33 ms
+Flow 2 RTT: 318.40 ms
+
+40% 
+Flow 1 RTT: 318.27 ms
+Flow 2 RTT: 318.93 ms
+
+39%
+Flow 1 RTT: 313.43 ms
+Flow 2 RTT: 314.51 ms
+
+38%
+Flow 1 RTT: 311.78 ms
+Flow 2 RTT: 313.80 ms
+
+37%
+Flow 1 RTT: 310.76 ms
+Flow 2 RTT: 313.45 ms
+
+36%
+Flow 1 RTT: 313.96 ms
+Flow 2 RTT: 315.54 ms
+
+35%
+Flow 1 RTT: 310.64 ms
+Flow 2 RTT: 314.51 ms
+
+34%
+Flow 1 RTT: 314.30 ms
+Flow 2 RTT: 315.31 ms
+
+33%
+Flow 1 RTT: 317.28 ms
+Flow 2 RTT: 317.38 ms
+
+32%
+Flow 1 RTT: 317.82 ms
+Flow 2 RTT: 318.74 ms
+
+31%
+Flow 1 RTT: 313.55 ms
+Flow 2 RTT: 313.86 ms
+
+30% 
+Flow 1 RTT: 316.05 ms
+Flow 2 RTT: 316.82 ms
+
+29%
+Flow 1 RTT: 313.60 ms
+Flow 2 RTT: 313.67 ms
+
+28%
+Flow 1 RTT: 318.13 ms
+Flow 2 RTT: 319.42 ms
+
+27%
+Flow 1 RTT: 315.72 ms
+Flow 2 RTT: 314.77 ms
+
+26%
+Flow 1 RTT: 312.77 ms
+Flow 2 RTT: 314.68 ms
+
+25%
+Flow 1 RTT: 311.69 ms
+Flow 2 RTT: 313.33 ms
+
+24%
+Flow 1 RTT: 312.97 ms
+Flow 2 RTT: 312.71 ms
+
+23%
+Flow 1 RTT: 310.21 ms
+Flow 2 RTT: 315.06 ms
+
+22%
+Flow 1 RTT: 315.42 ms
+Flow 2 RTT: 315.71 ms
+
+21%
+Flow 1 RTT: 322.07 ms
+Flow 2 RTT: 322.26 ms
+
+20% 
+Flow 1 RTT: 328.38 ms
+Flow 2 RTT: 329.43 ms
+
+19%
+Flow 1 RTT: 323.98 ms
+Flow 2 RTT: 325.64 ms
+
+18%
+Flow 1 RTT: 324.68 ms
+Flow 2 RTT: 324.04 ms
+
+17%
+Flow 1 RTT: 320.00 ms
+Flow 2 RTT: 317.13 ms
+
+16%
+Flow 1 RTT: 327.41 ms
+Flow 2 RTT: 322.85 ms
+
+15%
+Flow 1 RTT: 327.70 ms
+Flow 2 RTT: 328.08 ms
+
+14%
+Flow 1 RTT: 324.64 ms
+Flow 2 RTT: 326.03 ms
+
+13%
+Flow 1 RTT: 322.00 ms
+Flow 2 RTT: 324.30 ms
+
+12%
+Flow 1 RTT: 325.64 ms
+Flow 2 RTT: 323.80 ms
+
+11%
+Flow 1 RTT: 323.97 ms
+Flow 2 RTT: 324.78 ms
+
+10%
+Flow 1 RTT: 326.01 ms
+Flow 2 RTT: 324.14 ms
+
+9%
+Flow 1 RTT: 326.99 ms
+Flow 2 RTT: 327.64 ms
+
+8%
+Flow 1 RTT: 322.19 ms
+Flow 2 RTT: 321.09 ms
+
+7%
+Flow 1 RTT: 325.82 ms
+Flow 2 RTT: 325.31 ms
+
+6%
+Flow 1 RTT: 328.01 ms
+Flow 2 RTT: 325.15 ms
+
+5%
+Flow 1 RTT: 327.24 ms
+Flow 2 RTT: 326.19 ms
+
+4%
+Flow 1 RTT: 316.83 ms
+Flow 2 RTT: 316.99 ms
+
+3%
+Flow 1 RTT: 318.57 ms
+Flow 2 RTT: 322.23 ms
+
+2%
+Flow 1 RTT: 319.56 ms
+Flow 2 RTT: 318.98 ms
+
+1%
+Flow 1 RTT: 324.41 ms
+Flow 2 RTT: 322.77 ms
+
+0%
+Flow 1 RTT: 316.19 ms
+Flow 2 RTT: 316.81 ms

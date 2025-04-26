@@ -1,0 +1,19 @@
+Reno
+Flow 1 RTT: 361.78 ms
+Flow 2 RTT: 369.62 ms
+
+Cubic
+Flow 1 RTT: 431.15 ms
+Flow 2 RTT: 442.53 ms
+
+BBR
+Flow 1 RTT: 511.70 ms
+Flow 2 RTT: 511.68 ms
+
+BBR-S 85%
+Flow 1 RTT: 384.28 ms
+Flow 2 RTT: 386.62 ms
+
+BBR-S 77%
+Flow 1 RTT: 369.53 ms
+Flow 2 RTT: 369.84 ms

@@ -1,0 +1,399 @@
+99%
+Flow 1 Goodput: 13.59 Mbps
+Flow 2 Goodput: 13.51 Mbps
+
+98%
+Flow 1 Goodput: 13.61 Mbps
+Flow 2 Goodput: 13.12 Mbps
+
+97%
+Flow 1 Goodput: 12.91 Mbps
+Flow 2 Goodput: 12.78 Mbps
+
+96%
+Flow 1 Goodput: 13.23 Mbps
+Flow 2 Goodput: 13.60 Mbps
+
+95%
+Flow 1 Goodput: 12.96 Mbps
+Flow 2 Goodput: 12.71 Mbps
+
+94%
+Flow 1 Goodput: 12.72 Mbps
+Flow 2 Goodput: 12.76 Mbps
+
+93%
+Flow 1 Goodput: 12.64 Mbps
+Flow 2 Goodput: 12.54 Mbps
+
+92%
+Flow 1 Goodput: 12.49 Mbps
+Flow 2 Goodput: 12.39 Mbps
+
+91%
+Flow 1 Goodput: 12.36 Mbps
+Flow 2 Goodput: 12.39 Mbps
+
+90%
+Flow 1 Goodput: 12.59 Mbps
+Flow 2 Goodput: 12.49 Mbps
+
+89%
+Flow 1 Goodput: 12.46 Mbps
+Flow 2 Goodput: 12.45 Mbps
+
+88%
+Flow 1 Goodput: 12.58 Mbps
+Flow 2 Goodput: 12.30 Mbps
+
+87%
+Flow 1 Goodput: 12.39 Mbps
+Flow 2 Goodput: 12.31 Mbps
+
+86%
+Flow 1 Goodput: 12.38 Mbps
+Flow 2 Goodput: 12.35 Mbps
+
+85%
+Flow 1 Goodput: 12.38 Mbps
+Flow 2 Goodput: 12.41 Mbps
+
+84%
+Flow 1 Goodput: 12.38 Mbps
+Flow 2 Goodput: 12.33 Mbps
+
+83%
+Flow 1 Goodput: 12.59 Mbps
+Flow 2 Goodput: 12.39 Mbps
+
+82%
+Flow 1 Goodput: 12.43 Mbps
+Flow 2 Goodput: 12.35 Mbps
+
+81%
+Flow 1 Goodput: 12.64 Mbps
+Flow 2 Goodput: 12.43 Mbps
+
+80%
+Flow 1 Goodput: 12.41 Mbps
+Flow 2 Goodput: 12.26 Mbps
+
+79%
+Flow 1 Goodput: 12.31 Mbps
+Flow 2 Goodput: 12.23 Mbps
+
+78%
+Flow 1 Goodput: 12.64 Mbps
+Flow 2 Goodput: 12.43 Mbps
+
+77%
+Flow 1 Goodput: 12.28 Mbps
+Flow 2 Goodput: 12.35 Mbps
+
+76%
+Flow 1 Goodput: 12.35 Mbps
+Flow 2 Goodput: 12.39 Mbps
+
+75%
+Flow 1 Goodput: 12.20 Mbps
+Flow 2 Goodput: 12.23 Mbps
+
+74%
+Flow 1 Goodput: 12.21 Mbps
+Flow 2 Goodput: 12.22 Mbps
+
+73%
+Flow 1 Goodput: 12.44 Mbps
+Flow 2 Goodput: 12.36 Mbps
+
+72%
+Flow 1 Goodput: 12.35 Mbps
+Flow 2 Goodput: 12.39 Mbps
+
+71%
+Flow 1 Goodput: 12.19 Mbps
+Flow 2 Goodput: 12.14 Mbps
+
+70%
+Flow 1 Goodput: 12.29 Mbps
+Flow 2 Goodput: 12.38 Mbps
+
+69%
+Flow 1 Goodput: 12.21 Mbps
+Flow 2 Goodput: 12.25 Mbps
+
+68%
+Flow 1 Goodput: 12.18 Mbps
+Flow 2 Goodput: 12.22 Mbps
+
+67%
+Flow 1 Goodput: 12.27 Mbps
+Flow 2 Goodput: 12.11 Mbps
+
+66%
+Flow 1 Goodput: 12.24 Mbps
+Flow 2 Goodput: 12.32 Mbps
+
+65%
+Flow 1 Goodput: 12.39 Mbps
+Flow 2 Goodput: 12.44 Mbps
+
+64%
+Flow 1 Goodput: 12.30 Mbps
+Flow 2 Goodput: 12.24 Mbps
+
+63%
+Flow 1 Goodput: 12.47 Mbps
+Flow 2 Goodput: 12.38 Mbps
+
+62%
+Flow 1 Goodput: 12.07 Mbps
+Flow 2 Goodput: 12.02 Mbps
+
+61%
+Flow 1 Goodput: 12.18 Mbps
+Flow 2 Goodput: 12.23 Mbps
+
+60%
+Flow 1 Goodput: 12.13 Mbps
+Flow 2 Goodput: 12.10 Mbps
+
+59%
+Flow 1 Goodput: 12.12 Mbps
+Flow 2 Goodput: 12.42 Mbps
+
+58%
+Flow 1 Goodput: 12.19 Mbps
+Flow 2 Goodput: 12.23 Mbps
+
+57%
+Flow 1 Goodput: 12.07 Mbps
+Flow 2 Goodput: 12.12 Mbps
+
+56%
+Flow 1 Goodput: 12.39 Mbps
+Flow 2 Goodput: 12.26 Mbps
+
+55%
+Flow 1 Goodput: 12.27 Mbps
+Flow 2 Goodput: 12.21 Mbps
+
+54%
+Flow 1 Goodput: 11.92 Mbps
+Flow 2 Goodput: 11.98 Mbps
+
+53%
+Flow 1 Goodput: 11.83 Mbps
+Flow 2 Goodput: 11.85 Mbps
+
+52%
+Flow 1 Goodput: 11.84 Mbps
+Flow 2 Goodput: 11.81 Mbps
+
+51%
+Flow 1 Goodput: 11.98 Mbps
+Flow 2 Goodput: 12.20 Mbps
+
+50%
+Flow 1 Goodput: 11.88 Mbps
+Flow 2 Goodput: 11.93 Mbps
+
+49%
+Flow 1 Goodput: 11.88 Mbps
+Flow 2 Goodput: 12.02 Mbps
+
+48%
+Flow 1 Goodput: 11.69 Mbps
+Flow 2 Goodput: 12.02 Mbps
+
+47%
+Flow 1 Goodput: 11.86 Mbps
+Flow 2 Goodput: 11.87 Mbps
+
+46%
+Flow 1 Goodput: 11.66 Mbps
+Flow 2 Goodput: 11.96 Mbps
+
+45%
+Flow 1 Goodput: 11.66 Mbps
+Flow 2 Goodput: 11.79 Mbps
+
+44%
+Flow 1 Goodput: 11.31 Mbps
+Flow 2 Goodput: 11.56 Mbps
+
+43%
+Flow 1 Goodput: 11.52 Mbps
+Flow 2 Goodput: 11.47 Mbps
+
+42%
+Flow 1 Goodput: 11.38 Mbps
+Flow 2 Goodput: 11.35 Mbps
+
+41%
+Flow 1 Goodput: 11.35 Mbps
+Flow 2 Goodput: 11.57 Mbps
+
+40% 
+Flow 1 Goodput: 11.36 Mbps
+Flow 2 Goodput: 11.79 Mbps
+
+39%
+Flow 1 Goodput: 11.39 Mbps
+Flow 2 Goodput: 11.35 Mbps
+
+38%
+Flow 1 Goodput: 11.42 Mbps
+Flow 2 Goodput: 11.37 Mbps
+
+37%
+Flow 1 Goodput: 11.14 Mbps
+Flow 2 Goodput: 11.20 Mbps
+
+36%
+Flow 1 Goodput: 11.31 Mbps
+Flow 2 Goodput: 11.21 Mbps
+
+35%
+Flow 1 Goodput: 11.20 Mbps
+Flow 2 Goodput: 11.29 Mbps
+
+34%
+Flow 1 Goodput: 11.27 Mbps
+Flow 2 Goodput: 11.25 Mbps
+
+33%
+Flow 1 Goodput: 11.17 Mbps
+Flow 2 Goodput: 11.38 Mbps
+
+32%
+Flow 1 Goodput: 10.94 Mbps
+Flow 2 Goodput: 11.59 Mbps
+
+31%
+Flow 1 Goodput: 11.15 Mbps
+Flow 2 Goodput: 11.19 Mbps
+
+30% 
+Flow 1 Goodput: 11.12 Mbps
+Flow 2 Goodput: 11.51 Mbps
+
+29%
+Flow 1 Goodput: 11.13 Mbps
+Flow 2 Goodput: 11.15 Mbps
+
+28%
+Flow 1 Goodput: 10.85 Mbps
+Flow 2 Goodput: 11.46 Mbps
+
+27%
+Flow 1 Goodput: 10.81 Mbps
+Flow 2 Goodput: 11.26 Mbps
+
+26%
+Flow 1 Goodput: 10.89 Mbps
+Flow 2 Goodput: 11.00 Mbps
+
+25%
+Flow 1 Goodput: 10.90 Mbps
+Flow 2 Goodput: 10.93 Mbps
+
+24%
+Flow 1 Goodput: 10.83 Mbps
+Flow 2 Goodput: 10.89 Mbps
+
+23%
+Flow 1 Goodput: 10.80 Mbps
+Flow 2 Goodput: 10.91 Mbps
+
+22%
+Flow 1 Goodput: 10.58 Mbps
+Flow 2 Goodput: 11.15 Mbps
+
+21%
+Flow 1 Goodput: 10.64 Mbps
+Flow 2 Goodput: 11.45 Mbps
+
+20% 
+Flow 1 Goodput: 10.69 Mbps
+Flow 2 Goodput: 11.55 Mbps
+
+19%
+Flow 1 Goodput: 10.64 Mbps
+Flow 2 Goodput: 11.28 Mbps
+
+18%
+Flow 1 Goodput: 10.68 Mbps
+Flow 2 Goodput: 10.93 Mbps
+
+17%
+Flow 1 Goodput: 10.40 Mbps
+Flow 2 Goodput: 10.65 Mbps
+
+16%
+Flow 1 Goodput: 11.06 Mbps
+Flow 2 Goodput: 11.09 Mbps
+
+15%
+Flow 1 Goodput: 11.23 Mbps
+Flow 2 Goodput: 11.22 Mbps
+
+14%
+Flow 1 Goodput: 11.17 Mbps
+Flow 2 Goodput: 11.24 Mbps
+
+13%
+Flow 1 Goodput: 10.72 Mbps
+Flow 2 Goodput: 11.06 Mbps
+
+12%
+Flow 1 Goodput: 10.89 Mbps
+Flow 2 Goodput: 10.96 Mbps
+
+11%
+Flow 1 Goodput: 10.89 Mbps
+Flow 2 Goodput: 10.99 Mbps
+
+10%
+Flow 1 Goodput: 10.76 Mbps
+Flow 2 Goodput: 10.80 Mbps
+
+9%
+Flow 1 Goodput: 11.18 Mbps
+Flow 2 Goodput: 11.11 Mbps
+
+8%
+Flow 1 Goodput: 10.23 Mbps
+Flow 2 Goodput: 10.28 Mbps
+
+7%
+Flow 1 Goodput: 10.85 Mbps
+Flow 2 Goodput: 10.88 Mbps
+
+6%
+Flow 1 Goodput: 10.56 Mbps
+Flow 2 Goodput: 10.59 Mbps
+
+5%
+Flow 1 Goodput: 10.42 Mbps
+Flow 2 Goodput: 10.40 Mbps
+
+4%
+Flow 1 Goodput: 9.10 Mbps
+Flow 2 Goodput: 9.16 Mbps
+
+3%
+Flow 1 Goodput: 9.01 Mbps
+Flow 2 Goodput: 9.05 Mbps
+
+2%
+Flow 1 Goodput: 8.42 Mbps
+Flow 2 Goodput: 8.42 Mbps
+
+1%
+Flow 1 Goodput: 8.45 Mbps
+Flow 2 Goodput: 8.42 Mbps
+
+0%
+Flow 1 Goodput: 6.58 Mbps
+Flow 2 Goodput: 6.57 Mbps

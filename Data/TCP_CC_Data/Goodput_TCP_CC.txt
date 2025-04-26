@@ -1,0 +1,19 @@
+Reno
+Flow 1 Goodput: 11.31 Mbps
+Flow 2 Goodput: 11.30 Mbps
+
+Cubic
+Flow 1 Goodput: 13.53 Mbps
+Flow 2 Goodput: 13.27 Mbps
+
+BBR
+Flow 1 Goodput: 13.06 Mbps
+Flow 2 Goodput: 12.35 Mbps
+
+BBR-S 85%
+Flow 1 Goodput: 12.38 Mbps
+Flow 2 Goodput: 12.41 Mbps
+
+BBR-S 77%
+Flow 1 Goodput: 12.28 Mbps
+Flow 2 Goodput: 12.35 Mbps
