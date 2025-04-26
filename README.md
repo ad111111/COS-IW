@@ -2,7 +2,7 @@
 The code and dataset for our COS IW Final Project.
 
 ### Code
-Belows are a description of the code files used in this project:
+Below is a description of the code files used in this project:
 
 - 📄 `simulation.py`: Mininet simulation script to run virtual network experiments.
 - 📄 `bbrs.c`: BBR-S Code was taken from the BBR-Bufferbloat-Video-Project owned by Dr. Santiago Vargas, PhD. BBR-S code can be compiled into a linux kernel module.
