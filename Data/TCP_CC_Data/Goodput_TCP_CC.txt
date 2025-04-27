@@ -10,10 +10,14 @@ BBR
 Flow 1 Goodput: 13.06 Mbps
 Flow 2 Goodput: 12.35 Mbps
 
+BBR-S 77%
+Flow 1 Goodput: 12.28 Mbps
+Flow 2 Goodput: 12.35 Mbps
+
 BBR-S 85%
 Flow 1 Goodput: 12.38 Mbps
 Flow 2 Goodput: 12.41 Mbps
 
-BBR-S 77%
-Flow 1 Goodput: 12.28 Mbps
-Flow 2 Goodput: 12.35 Mbps
+BBR-S 95%
+Flow 1 Goodput: 12.96 Mbps
+Flow 2 Goodput: 12.71 Mbps
