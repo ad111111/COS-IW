@@ -39,10 +39,7 @@ Flow 1 RTT: 411.09 ms
 Flow 2 RTT: 406.83 ms
 
 89%
-Flow 1 Goodput: 12.46 Mbps
 Flow 1 RTT: 409.28 ms
-
-Flow 2 Goodput: 12.45 Mbps
 Flow 2 RTT: 414.31 ms
 
 88%
