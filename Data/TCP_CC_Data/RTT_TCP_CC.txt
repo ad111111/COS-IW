@@ -10,10 +10,14 @@ BBR
 Flow 1 RTT: 511.70 ms
 Flow 2 RTT: 511.68 ms
 
+BBR-S 77%
+Flow 1 RTT: 369.53 ms
+Flow 2 RTT: 369.84 ms
+
 BBR-S 85%
 Flow 1 RTT: 384.28 ms
 Flow 2 RTT: 386.62 ms
 
-BBR-S 77%
-Flow 1 RTT: 369.53 ms
-Flow 2 RTT: 369.84 ms
+BBR-S 95%
+Flow 1 RTT: 407.48 ms
+Flow 2 RTT: 397.89 ms
